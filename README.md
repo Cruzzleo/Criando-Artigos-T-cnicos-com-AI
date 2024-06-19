@@ -1,7 +1,8 @@
 # Projeto: Artigo Técnico Gerado por I.A.
 
 Este é o repositório desenvolvido durante o curso no qual fui aluno plataforma da [DIO](https://dio.me). O objetivo do projeto é gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
-## **[Leia  o artigo aqui na plataforma DIO!](https://web.dio.me/articles/o-que-sao-conflitos-de-merge?back=%2Farticles&open-modal=true&page=1&order=oldest)**[Ou aqui no gitHub](/Assets/Artigo.MD)
+## **[Leia  o artigo aqui na plataforma DIO!](https://web.dio.me/articles/o-que-sao-conflitos-de-merge?back=%2Farticles&open-modal=true&page=1&order=oldest)**
+## **[Ou aqui no gitHub](/Assets/Artigo.MD)**
 ## Tecnologias Utilizadas
 
 - [ChatGPT](https://chat.openai.com) - Para criação de títulos e conteúdo.
